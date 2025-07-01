@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Hidden files
+.DS_Store
+.env
+*.env
+
+# Data and Outputs
+*.png
+*.h5
+*.ckpt
